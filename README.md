@@ -1,2 +1,1 @@
-"Hello Git!" 
-"Hello Git!\n\nI have validated the sign" 
+"Hello Git!<br>I have validated the sign!" 
